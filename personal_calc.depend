@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1393140545 source:c:\users\alexander\documents\github\personal_calc\calc.cpp
+	"Calc.h"
+	<math.h>
+	<iomanip>
+
+1393138622 c:\users\alexander\documents\github\personal_calc\calc.h
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+	"CVarDB.h"
+	"CVariable.h"
+	"CMatrix.h"
+
+1392785440 c:\users\alexander\documents\github\personal_calc\cvardb.h
+	"CVariable.h"
+
+1392842704 c:\users\alexander\documents\github\personal_calc\cvariable.h
+
+1392573479 c:\users\alexander\documents\github\personal_calc\cmatrix.h
+
+1392785508 source:c:\users\alexander\documents\github\personal_calc\cvardb.cpp
+	"CVarDB.h"
+	<cstring>
+
+1392842697 source:c:\users\alexander\documents\github\personal_calc\cvariable.cpp
+	"CVariable.h"
+	<cstring>
+	<iostream>
+
+1393026306 source:c:\users\alexander\documents\github\personal_calc\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string>
+	"Calc.h"
+
+1393181366 source:c:\users\alexander\documents\github\personal_calc\cmatrix.cpp
+	"CMatrix.h"
+	<iostream>
+	<iomanip>
+	<math.h>
+	<vector>
+	<cassert>
+
